@@ -138,3 +138,4 @@ dist
 /web-ext-artifacts
 /dist-firefox
 /dist-chrome
+.DS_Store
